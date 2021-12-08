@@ -1,0 +1,7 @@
+namespace Ztest {
+
+	function test(){
+		return("this worked somehow?");
+	}
+	
+}

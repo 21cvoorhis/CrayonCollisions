@@ -1,0 +1,14 @@
+{
+    "name": "Ztest",
+    "author": "Colin Voorhis",
+    "documentation": "n/a",
+    "description": "Testing bro",
+
+    "localization": {
+        "default": "en",
+        "names": {
+            "en": "Ztest",
+            "es": "Ztesto",
+        }
+    },
+}
